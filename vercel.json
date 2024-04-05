@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "src": "/css/style.css", "dest": "/css/style.css" },
+    { "src": "/css/loading.css", "dest": "/css/loading.css" },
+    { "src": "/js/script.js", "dest": "/js/script.js" },
+    { "src": "/page", "dest": "/page.html" }
+  ]
+  
+}
